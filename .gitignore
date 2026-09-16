@@ -42,3 +42,6 @@ build/
 .env.*
 !.env.example
 *.local
+
+# ---- Agent workspace data (local memory, not part of the skill package) ----
+.workbuddy/

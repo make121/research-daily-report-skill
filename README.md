@@ -52,6 +52,7 @@
 .
 ├── SKILL.md                        # 技能定义与完整写作规范
 ├── README.md                       # 本文件
+├── CHANGELOG.md                    # 变更历史
 └── references/
     ├── report-guidelines.md        # 补充写作指南（假设演化、证据分级、措辞校准）
     └── example-report.md           # 示例日报，展示期望的推理还原程度
